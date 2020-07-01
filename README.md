@@ -1,0 +1,2 @@
+# ObSpec
+Our idea is to develop a mobile application called 'ObSpec', which will be an educational tool to assist a person to find or gather information about any real-life object which he/she scans from the camera sensor of their devices. For example, if a user scans a tree, the application is supposed to display its name and all the other information regarding it. It will also have a separate section in which a user can interact with a 3-D model of an object placed in an augmented reality space to educate and provide a better understanding of the world around us.
